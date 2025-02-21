@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Hello This is Divya and Vyom
 
 
 Change form feature branch 2
 This is some new content in the project file
 
+=======
+Hello This is Divya and Vyom
+>>>>>>> parent of d2c83bb (made new branch and done some changes)
